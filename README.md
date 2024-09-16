@@ -24,7 +24,11 @@
 ## Output :
 
 ### Dmoney HTML REPORT :
-![Dmoney](https://github.com/user-attachments/assets/3c8a227d-54be-4008-9132-9ece16ee7483)
+#### Requests Summary:
+![dmoney summary](https://github.com/user-attachments/assets/091703a1-89c9-4547-b746-52c3066dd308)
+#### Statistics :
+![Dmoney statistics](https://github.com/user-attachments/assets/bc55242d-5feb-4f03-806a-34998c94475a)
+
 
 
 ### LOAD TEST :
