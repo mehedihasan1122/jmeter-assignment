@@ -17,6 +17,9 @@
 5. follow up the summary and table to see output
 
 ## Prerequisite :
+1. Install Jmeter
+2. Setup Home environemt
+3. Install gitbash
 
 ## Output :
 
