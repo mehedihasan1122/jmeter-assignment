@@ -1,17 +1,16 @@
-# Dmoney API Automation
+# Dmoney and Booking API performance Testing 
 
-## Project Summary:  I have create a new user ,Login, Search user ,Update User , Delete user and Deposit, Sendmoney, Payment and Withdraw using CRUD operation. Testing All off feature Using Postman API.
+## Project Summary: Here I create a JMETER collection for performace testing to test that this server will stable or not and what will be the entire server behavior when user uses or send request to this server and indentify that what is the load , capacity and stress level for this server . In the second phase , I have create Login  and Transaction for Deposit, Sendmoney, Payment and Withdraw . Testing All off these using JMETER.
 
 ## Technologies I have used:
 - Postman
-- Newman
+- JMETER
 - Nodejs
+- gitHub
+- Excel
 ## How to run ?
 1. Clone this project
-2. Give this Command `npm i`
-3. Add env file to project root
-4. Now hits the command to execute
-``` npm test```
+2. 
 
 --
 ## Output
