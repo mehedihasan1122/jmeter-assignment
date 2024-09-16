@@ -8,11 +8,16 @@
 - Nodejs
 - gitHub
 - Excel
+  
 ## How to run ?
 1. Clone this project
-2. 
+2. create collection
+3. setup pre requisite on jmeter
+4. run this entire collection
+5. follow up the summary and table to see output
 
---
+## Prerequisite:
+
 ## Output
 
 ### Dmoney HTML REPORT:
