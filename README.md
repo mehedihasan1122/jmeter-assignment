@@ -42,7 +42,8 @@
 ![LOAD STATISTICS](https://github.com/user-attachments/assets/d7c5467c-d575-4dea-9766-0a7ebd9250e1)
 
 #### Excell Format:
-![load](https://github.com/user-attachments/assets/822919ed-512c-41d6-a8b5-ed7a3362bea7)
+![load](https://github.com/user-attachments/assets/cd640794-0b57-4b8b-8028-502d3cd03650)
+
 
 
 ### STRESS TEST :
@@ -57,7 +58,8 @@
 
  
 #### Excell Format :
-![strss](https://github.com/user-attachments/assets/5a3aaca3-a1c6-4ed0-93fb-67d469398b2f)
+![stress](https://github.com/user-attachments/assets/d1889294-804d-446d-b769-f56289f81b23)
+
 
 
 
